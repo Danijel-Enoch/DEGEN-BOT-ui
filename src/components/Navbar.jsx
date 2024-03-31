@@ -30,14 +30,14 @@ export default function Navbar() {
           </a>
           <div className="flex flex-col gap-3 text-sm mt-8 xl:hidden">
             <a
-              className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-48 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="/"
+              className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
+              href="https://app.uniswap.org/swap?outputCurrency=0x2EC64a5a65D34E0a6e383848fBc816e6aAd56e1f&chain=base"
             >
               BUY $DBOT ON UNISWAP
             </a>
             <a
-              className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-48 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="/"
+              className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
+              href="https://dex.swapdegen.tips/#/swap?outputCurrency=0xC2C5D4852C6C11490b9120CaE7120421AAF47a2f"
             >
               BUY $DBOT ON DEGEN
             </a>

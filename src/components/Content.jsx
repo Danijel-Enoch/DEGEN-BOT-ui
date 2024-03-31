@@ -22,13 +22,13 @@ export default function Content() {
           <div className="flex flex-col md:flex-row gap-2 text-sm text-center">
             <a
               className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="/"
+              href="https://app.uniswap.org/swap?outputCurrency=0x2EC64a5a65D34E0a6e383848fBc816e6aAd56e1f&chain=base"
             >
               BUY $DBOT ON UNISWAP
             </a>
             <a
               className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="/"
+              href="https://dex.swapdegen.tips/#/swap?outputCurrency=0xC2C5D4852C6C11490b9120CaE7120421AAF47a2f"
             >
               BUY $DBOT ON DEGEN CHAIN
             </a>
@@ -39,6 +39,13 @@ export default function Content() {
               LAUNCH TELEGRAM BOT
             </a>
           </div>
+
+          <p className="mt-6 mb-2 uppercase">
+            BASE CONTRACT ARDRESS : 0x2ec64a5a65d34e0a6e383848fbc816e6aad56e1f
+          </p>
+          <p>
+            DEGEN CONTRACT ADDRESS: 0xC2C5D4852C6C11490b9120CaE7120421AAF47a2f
+          </p>
         </div>
       </section>
     </main>
