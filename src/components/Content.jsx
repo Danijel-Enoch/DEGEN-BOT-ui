@@ -12,11 +12,12 @@ export default function Content() {
             <h2 className="text-lg max-w-80 min-[2000px]:text-4xl font-semibold leading-6">
               TRADE CRYPTO EASILY ON THE DEGEN CHAIN
             </h2>
-            <p className="text-base min-[2000px]:text-xl font-medium tracking-[-0.01em] mt-6 mb-8">
+            <p className="text-base min-[2000px]:text-xl font-medium tracking-[-0.01em] mt-6">
               {" "}
               Enjoy a synchronised and seamless trading experience across all
               devices. Start trading with the Degen Bot today
             </p>
+            <p className="my-6">BRIDGE COMING SOON...</p>
           </div>
           <div className="flex flex-col md:flex-row gap-2 text-sm text-center">
             <a
