@@ -6,7 +6,7 @@ export default function Navbar() {
 
   return (
     <nav className="flex justify-between items-center tracking-tight text-white w-full gap-x-12 py-[17px] px-4 lg:px-14">
-      <section className="">
+      <section className="xl:w-[414px]">
         <img src={logo} alt="logo" />
       </section>
 
