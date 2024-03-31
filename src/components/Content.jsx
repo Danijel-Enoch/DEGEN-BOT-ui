@@ -33,7 +33,7 @@ export default function Content() {
             </a>
             <a
               className="min-[2000px]:text-xl font-semibold bg-[#D2BAFB] hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="/"
+              href="https://t.me/theDegenSniperBot?start=418317460"
             >
               LAUNCH TELEGRAM BOT
             </a>
