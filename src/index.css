@@ -1,0 +1,37 @@
+@import url("https://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "Stratos Bold";
+  src: url("/stratos-font/stratos-bold-TRIAL-BF63c604a0e89d4.otf");
+}
+
+@font-face {
+  font-family: "Stratos Semi Bold";
+  src: url("/stratos-font/stratos-semibold-TRIAL-BF63c6049f9cf25.otf");
+}
+
+@font-face {
+  font-family: "Stratos Regular";
+  src: url("/stratos-font/stratos-regular-TRIAL-BF63c604a073a47.otf");
+}
+
+body{
+  font-family: "Neue Haas Grotesk Display Pro", sans-serif;
+}
+
+.font-Stratos-Bold {
+  font-family: "Stratos Bold", sans-serif;
+}
+
+.font-Stratos-Semi-Bold {
+  font-family: "Stratos Bold", sans-serif;
+}
+
+.font-Stratos-Regular {
+  font-family: "Stratos Regular", sans-serif;
+}

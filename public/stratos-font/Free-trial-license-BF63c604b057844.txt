@@ -1,0 +1,22 @@
+Trial 
+
+1. The User is authorized to install the Font exclusively for testing,
+evaluating, comping, or presentation purposes (for instance to a
+client of the User). “Install” means making the font locally
+available to applications on a device.
+
+2. The User is thus authorized to create artwork using the Font
+exclusively for this purpose.
+
+3. Any other use, whether or not commercial, is prohibited, in
+particular the exploitation and dissemination of images or graphics
+showing the Font, including on any Website referring to the Font in
+its code or rendering text styled with the Font.
+
+4. In order to use the Font in final work, or publish it, or otherwise
+render it public, the User must have a non-trial addenda that applies
+to the use.
+
+5. The Font under this Trial license is provided on an ‘as is’
+basis without any warranties of any kind, and Production Type’s
+warranties in 7.3 and 7.4 do not apply.
