@@ -11,7 +11,7 @@ export default function Navbar() {
       </section>
 
       <section
-        className={`bg-gradient-to-r from-[#1C003A] backdrop-blur-md to-[#213C524D] xl:relative px-4 absolute w-full h-screen z-[9999999] xl:gap-5 xl:bg-transparent xl:w-fit xl:h-fit flex flex-col xl:flex-row justify-center gap-16 items-center ${
+        className={`bg-gradient-to-r from-[#1C003A] backdrop-blur-md to-[#213C524D] xl:relative px-4 absolute w-full h-screen z-[9999999] xl:gap-5 xl:bg-transparent xl:from-transparent xl:to-transparent xl:w-fit xl:h-fit flex flex-col xl:flex-row justify-center gap-16 items-center ${
           menuOpen ? "left-0 top-0" : "-left-full xl:left-0"
         }`}
       >
