@@ -22,13 +22,13 @@ export default function Content() {
           <div className="flex flex-col md:flex-row gap-2 text-sm text-center">
             <a
               className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="https://app.uniswap.org/swap?outputCurrency=0x2EC64a5a65D34E0a6e383848fBc816e6aAd56e1f&chain=base"
+              href="#"
             >
               BUY $DBOT ON UNISWAP
             </a>
             <a
               className="min-[2000px]:text-xl font-semibold bg-white hover:bg-white/80 text-[#1D013B] hover:bg-white hover:border-black px-[12.5px] py-[5.8px] rounded-[50px] w-full md:w-[247px] min-[2000px]:p-5 min-[2000px]:w-[400px] tracking-[-2%] h-8 flex justify-center items-center"
-              href="https://dex.swapdegen.tips/#/swap?outputCurrency=0xC2C5D4852C6C11490b9120CaE7120421AAF47a2f"
+              href="https://dex.swapdegen.tips/#/swap?outputCurrency=0xB3b59Ea4415113F3d3f8edA21eD24945c6b1CB6c"
             >
               BUY $DBOT ON DEGEN CHAIN
             </a>
